@@ -1,1 +1,2 @@
-Continuing git
+Contributing to GitHub
+Another modification
